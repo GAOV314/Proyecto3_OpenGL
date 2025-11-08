@@ -1,0 +1,14 @@
+newmtl NemuMat31
+Kd 0.996094 0.996094 0.996094
+illum 1
+map_Kd ../textures/54E44B32_fix.png
+
+newmtl NemuMat32
+Kd 0.996094 0.996094 0.996094
+illum 1
+map_Kd ../textures/24F45E1C_fix.png
+
+newmtl NemuMat33
+Kd 1.000000 1.000000 1.000000
+illum 1
+map_Kd ../textures/body.png
