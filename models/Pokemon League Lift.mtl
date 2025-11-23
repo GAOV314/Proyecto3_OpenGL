@@ -1,0 +1,8 @@
+newmtl lambert4
+Ka 0 0 0
+Kd 0.7843137 0.7843137 0.7843137
+d 1
+Tr 1
+map_Ka ../textures/lambert4.png
+map_Kd ../textures/lambert4.png
+map_d ../textures/lambert4.png

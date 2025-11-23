@@ -1,0 +1,83 @@
+# Material file for wigglytuff.obj
+
+newmtl Mesh_0004_rip
+	Ns 10
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.0 0.0 0.0
+	Ka 0.0 0.0 0.0
+	map_Kd ../textures/wig/Tex_0003_0.png
+
+newmtl Mesh_0006_rip
+	Ns 10
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.0 0.0 0.0
+	Ka 0.0 0.0 0.0
+	map_Kd ../textures/wig/Tex_0005_0.png
+
+newmtl Mesh_0008_rip
+	Ns 10
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.0 0.0 0.0
+	Ka 0.0 0.0 0.0
+	map_Kd ../textures/wig/Tex_0007_0.png
+
+newmtl Mesh_0010_rip
+	Ns 10
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.0 0.0 0.0
+	Ka 0.0 0.0 0.0
+	map_Kd ../textures/wig/Tex_0009_0.png
+
+newmtl Mesh_0012_rip
+	Ns 10
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.0 0.0 0.0
+	Ka 0.0 0.0 0.0
+	map_Kd ../textures/wig/Tex_0009_0.png
+
+newmtl Mesh_0014_rip
+	Ns 10
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.0 0.0 0.0
+	Ka 0.0 0.0 0.0
+	map_Kd ../textures/wig/Tex_0007_0.png
+
+newmtl Mesh_0016_rip
+	Ns 10
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.0 0.0 0.0
+	Ka 0.0 0.0 0.0
+	map_Kd ../textures/wig/Tex_0015_0.png
+
+newmtl Mesh_0018_rip
+	Ns 10
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.0 0.0 0.0
+	Ka 0.0 0.0 0.0
+	map_Kd ../textures/wig/Tex_0017_0.png
+
+newmtl Mesh_0020_rip
+	Ns 10
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.0 0.0 0.0
+	Ka 0.0 0.0 0.0
+	map_Kd ../textures/wig/Tex_0017_0.png
+
